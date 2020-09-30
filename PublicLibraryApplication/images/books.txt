@@ -1,0 +1,101 @@
+1,Pride and Prejudice,Jane Austen,4956
+2,Alice's Adventures in Wonderland,Lewis Carroll,3660
+3,The Adventures of Sherlock Holmes,Arthur Conan Doyle,3460
+4,The Modern Prometheus,Mary Wollstonecraft Shelley,2510
+5,Dracula,Bram Stoker,2450
+6,Me--Smith,Caroline Lockhart,2316
+7,The Romance of Lust: A classic Victorian erotic novel,Anonymous,2300
+8,A Tale of Two Cities,Charles Dickens,2267
+9,War and Peace,graf Leo Tolstoy,2097
+10,The Whale,Herman Melville,2071
+11,The Adventures of Tom Sawyer,Mark Twain,1968
+12,Ulysses,James Joyce,1911
+13,Adventures of Huckleberry Finn,Mark Twain,1802
+14,The Strange Case of Dr. Jekyll and Mr. Hyde,Robert Louis Stevenson,1765
+15,The Importance of Being Earnest: A Trivial Comedy for Serious People,Oscar Wilde,1737
+16,The Count of Monte Cristo,Alexandre Dumas,1714
+17,Peter Pan,J. M. Barrie,1707
+18,Anna Karenina,graf Leo Tolstoy,1638
+19,English Surnames: Their Sources and Significations,Charles Wareing Endell Bardsley,1627
+20,The Time Machine,H. G. Wells,1512
+21,The Picture of Dorian Gray,Oscar Wilde,1420
+22,Emma,Jane Austen,1342
+23,The King James Version of the Bible,E. James,1325
+24,Metamorphosis,Franz Kafka,1311
+25,Jane Eyre: An Autobiography,Charlotte Brontë,1293
+26,The Wonderful Wizard of Oz,L. Frank Baum,1290
+27,Beowulf: An Anglo-Saxon Epic Poem,B Downy,1234
+28,The Iliad,Homer,1231
+29,Les Misérables,Victor Hugo,1227
+30,Prestuplenie i nakazanie. English,Fyodor Dostoyevsky,1180
+31,The Complete Works of William Shakespeare,William Shakespeare,1124
+32,Manifest der Kommunistischen Partei. English,Friedrich Engels and Karl Marx,1111
+33,Treasure Island,Robert Louis Stevenson,1102
+34,The Yellow Wallpaper,Charlotte Perkins Gilman,1076
+35,Narrative of the Life of Frederick Douglass,Frederick Douglass,1068
+36,Il Principe. English,Niccolò Machiavelli,1064
+37,The Open Window: Tales of the Months,Mabel Osgood Wright,1036
+38,Grimms' Fairy Tales,Jacob Grimm and Wilhelm Grimm,1029
+39,Wuthering Heights,Emily Brontë,1028
+40,Anne of Green Gables,L. M. Montgomery,1027
+41,The War of the Worlds,H. G. Wells,1000
+42,Don Quixote,Miguel de Cervantes Saavedra,990
+43,The Prophet,Kahlil Gibran,988
+44,The Kama Sutra of Vatsyayana,Vatsyayana,981
+45,Meditations,Emperor of Rome Marcus Aurelius,976
+46,My Secret Life,Anonymous,975
+47,Great Expectations,Charles Dickens,960
+48,Little Women,Louisa May Alcott,957
+49,Paradise Lost,John Milton,956
+50,American Indian life,Jonas Feredy,953
+51,Heart of Darkness,Joseph Conrad,952
+52,Et dukkehjem. English,Henrik Ibsen,949
+53,On The Duty Of Civil Disobedience,Henry David Thoreau,939
+54,A Thousand Years Ago: A Romance of the Orient,Percy MacKaye,936
+55,The Murder on the Links,Agatha Christie,933
+56,A Christmas Carol in Prose; Being a Ghost Story of Christmas,Charles Dickens,909
+57,Tractatus Logico-Philosophicus,Ludwig Wittgenstein,892
+58,Calculus Made Easy,Silvanus P. Thompson,886
+59,The Republic,Plato,879
+60,The Village,Ivan Alekseevich Bunin,873
+61,Gods and Heroes,Karl Friedrich Becker and Ferdinand Schmidt,867
+62,A Study in Scarlet,Arthur Conan Doyle,853
+63,Sense and Sensibility,Jane Austen,853
+64,The Truth About Port Arthur,E. K. Nozhin,853
+65,The Brothers Karamazov,Fyodor Dostoyevsky,853
+66,Forbidden Fruit: Luscious and exciting story,Master Percy's,850
+67,The Conceited Pig,Anonymous,848
+68,Siddhartha,Hermann Hesse,847
+69,Mansfield Park,Jane Austen,833
+70,Jamaican Song and Story,Kyre,818
+71,The Secret Garden,Frances Hodgson Burnett,815
+72,Historic Ornament Vol. 2,James Ward,811
+73,Dubliners,James Joyce,797
+74,The Human Element,Leo P. Kelley,763
+75,Persuasion,Jane Austen,761
+76,The Mysterious Affair at Styles,Agatha Christie,758
+77,Through the Looking-Glass,Lewis Carroll,745
+78,Blue-beard: A Contribution to History and Folk-lore,Thomas Wilson,739
+79,Paradise Lost,John Milton,732
+80,A Spring Harvest,A. Homes,731
+81,Canning Freezing,Storing Garden Produce,730
+82,The Scarlet Letter,Nathaniel Hawthorne,721
+83,The Legend of Sleepy Hollow,Washington Irving,719
+84,Halfway House: A Comedy of Degrees,Maurice Hewlett,715
+85,Reminiscences of a Raconteur,George H. Ham,713
+86,The Life and Adventures of Robinson Crusoe,Daniel Defoe,708
+87,Gulliver's Travels into Several Remote Nations of the World,Jonathan Swift,697
+88,Oliver Twist,Charles Dickens,689
+89,Also sprach Zarathustra. English,Friedrich Wilhelm Nietzsche,681
+90,A Connecticut Yankee in King Arthur's Court,Mark Twain,663
+91,Beyond Good and Evil,Friedrich Wilhelm Nietzsche,640
+92,Around the World in Eighty Days,Jules Verne,624
+93,On Angels' Wings,Mrs. Greene,624
+94,The Old Printer and the Modern Press,Charles Knight,622
+95,Alice's Adventures in Wonderland,Lewis Carroll,566
+96,The Elements of Style,William Strunk,560
+97,Sunzi bing fa. English,Sunzi,553
+98,The Autobiography of Benjamin Franklin,Benjamin Franklin,552
+99,The Middle of the Road: A Novel,Philip Gibbs,552
+100,The Souls of Black Folk,W. E. B. Du Bois,546
+
